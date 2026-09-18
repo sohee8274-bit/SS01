@@ -1,0 +1,6 @@
+{
+  "name": "나만의 여행나라",
+  "description": "상상 속 여행나라 건국부터 본인이 다녀온 음식점·관광지·숙소 지도 등록, 현장 사진 갤러리 및 네이버지도 스타일의 대중교통·택시 길찾기 가이드까지 제공하는 여행 포털",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
